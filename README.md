@@ -1,2 +1,4 @@
 # hello-world
-First Repository
+Hi there!
+
+My name is Ellis Lee.
